@@ -5,6 +5,7 @@ import 'es6-promise';
 import 'ts-helper';
 
 import * as angular from 'angular';
+import 'cleave.js/dist/cleave-angular.min.js';
 
 import 'ngcomponentrouter';
 import './store/configure-store';
